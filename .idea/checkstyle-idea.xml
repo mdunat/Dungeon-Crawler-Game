@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CheckStyle-IDEA" serialisationVersion="2">
+    <checkstyleVersion>8.14</checkstyleVersion>
+    <scanScope>JavaOnly</scanScope>
+    <copyLibs>true</copyLibs>
+    <option name="thirdPartyClasspath" />
+    <option name="activeLocationIds">
+      <option value="ebfd4a87-a445-472c-81b8-eb6f78fdb31b" />
+    </option>
+    <option name="locations">
+      <list>
+        <ConfigurationLocation id="bundled-sun-checks" type="BUNDLED" scope="All" description="Sun Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="bundled-google-checks" type="BUNDLED" scope="All" description="Google Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="ebfd4a87-a445-472c-81b8-eb6f78fdb31b" type="LOCAL_FILE" scope="All" description="2340 CS">$USER_HOME$/Library/CloudStorage/OneDrive-GeorgiaInstituteofTechnology/Simi Tech 2nd Year 2023-2023/CS 1332/CS1332-checkstyle.xml</ConfigurationLocation>
+        <ConfigurationLocation id="3132ac2d-1eb5-4fd9-8bc6-6a10bbe443aa" type="LOCAL_FILE" scope="All" description="checkerrr">$USER_HOME$/Downloads/cs1332.xml</ConfigurationLocation>
+      </list>
+    </option>
+  </component>
+</project>
